@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "94e5c12023981980",
+    "type": "split",
+    "children": [
+      {
+        "id": "561b911141fd5357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4235754bb18fbc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede5b46df6153222",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a207d5de255587c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7591abf0e44ba810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc919acbda0a7c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d723c0bfd2f9b47f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "482687fa59d82214",
+    "type": "split",
+    "children": [
+      {
+        "id": "c863f6e5ac0880ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb98a3126655fdc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9c7f390be2b6746",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "126f9383aed9d783",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d33785822805840",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4235754bb18fbc5",
+  "lastOpenFiles": [
+    "posts/post/index.md",
+    "posts/post/_index.md",
+    "_index.md",
+    "index.md",
+    "more.md",
+    "posts/the_post/index.md",
+    "posts/the_post/the-post.md",
+    "posts/the_post",
+    "posts/the-post.md",
+    "posts/myfirstpost.md",
+    "posts/post_1/index.md",
+    "posts/post/shta.jpg",
+    "posts/post",
+    "posts/my-first-post.md",
+    "posts/my-first-post-1.md",
+    "posts/post_1/shta.jpg",
+    "posts/test_post.md",
+    "posts/post_1/test_post.md",
+    "posts/post_1",
+    "shta.jpg",
+    "штф.jpg.md",
+    "image.png.md",
+    "шта.jpg",
+    "about.md"
+  ]
+}
