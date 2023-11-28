@@ -1,0 +1,44 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Homepage"
+theme = "archie"
+
+copyright = "© StopDesign"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 3 # articles per page
+
+[params]
+mode = "light"                      # color-mode → light,dark,toggle or auto
+useCDN = true                       # CDN не мелькает при отладке
+subtitle = "Minimal and Clean blog 2291311"
+customcss = ["css/main_cor.css"]
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+
